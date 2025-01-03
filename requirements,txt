@@ -1,0 +1,4 @@
+Django
+djangorestframework
+requests
+openai (if using OpenAI's API)
